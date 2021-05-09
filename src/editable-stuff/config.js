@@ -54,7 +54,7 @@ const about = {
   imageLink: require("../editable-stuff/personal.jpg"),
   imageSize: 375,
   message:
-    "My name is Denis YIN. I’m a graduate of 2020 from University of Wollongong at Sydney with a master degree in Computer Engineering.",
+    "My name is Denis YIN. I’m a graduate of 2021 from University of Wollongong at Sydney with a master degree in Computer Engineering.",
   resume: require("../editable-stuff/resume.pdf"),
 };
 
