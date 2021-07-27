@@ -135,4 +135,4 @@ const getInTouch = {
 //   show: false,
 // };
 
-export { navBar, mainBody, about, repos, skills, leadership, getInTouch };
+export { navBar, mainBody, about, repos, skills, getInTouch };
